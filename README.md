@@ -1,4 +1,4 @@
-# Gussian Splatting 2D
+# Gaussian Splatting 2D
 A demo of 2d gaussian generating image.
 
 ## Usage
