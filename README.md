@@ -18,7 +18,7 @@ The code only uses L1 loss for supervision. It will be better using other losses
 
 ![Example](example.png)
 
-**Result of 10 epoch(about 10 minutes on my GPU)**
+**Result of 10 epoch**
 
 ![Result](result.png)
 
