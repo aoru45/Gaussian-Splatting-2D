@@ -1,6 +1,10 @@
 # Gaussian Splatting 2D
-A demo of 2d gaussian generating image.
-
+This is a demo of 2d gaussian generating image.
+## Features
+1. Pre-generate coordinates for drawing gaussian image rather than using grid sample.
+2. Speedup training time by using less initialization sample points and increase the number gradually.
+3. Use tanh to parse parameters which gives larger gradient at the beginning of training.
+4. Less code, easier to understand.
 ## Usage
 
 ```cmd
